@@ -1,0 +1,22 @@
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.texto{
+  padding: 15px;
+  padding-top: 3px;
+  padding-bottom: 6px;
+  font-size: 20px;
+  background-color: #fff;
+  border-style: solid;
+  border-color: #c2c2c2;
+  border-radius: 30px;
+  color: #c2c2c2;
+  display: flex;
+  margin: 5px;
+}
+.texto:hover{
+  color:#4b889d;
+  border-color: #4b889d;
+}
